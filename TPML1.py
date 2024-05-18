@@ -2,7 +2,7 @@
 """
 Created on Sat May 11 02:18:13 2024
 
-@author: Isaac BULA
+@author: Emmanuel LOHASE
 """
 
 # Importer les librairies nécessaires
